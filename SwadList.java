@@ -18,7 +18,7 @@ public class SwadList {
 		System.out.println("7.                Pizza         100Rs/-");
 		System.out.println("8.                Exit                 ");
 		System.out.println("---------------------------------------");
-		System.out.println("*************");
+		
 		
 		for(int i=1;i<=1;i++) {
 			swadSingh ob = new swadSingh();
